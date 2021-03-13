@@ -12,9 +12,8 @@ When I'm not in research or trading, I'm probably eating, traveling, or crossing
 - Spend time to build a social network for common interest
 - Spend more time with families
 - Eat healthy, cook more at home and spend no more than 6 meals a week on Uber Eats
-- Sleep well and drip sufficient amount of water
-- Triple my AUM
-- Pass AICPA
+- Sleep well and drink sufficient amount of water
+
 
 Get in touch 👉  boya.chiou[at]gmail.com
 
