@@ -13,7 +13,8 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 
 Get in touch 👉  boya.chiou[at]gmail.com
 
-![minipic](image/IMG_7339.JPG)
+<img src="image/IMG_7339.JPG" width="100" height="100">
+
 ```diff
 - text in red
 + text in green
