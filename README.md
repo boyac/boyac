@@ -7,7 +7,7 @@ When I'm not in research or trading, I'm probably eating, traveling, or crossing
 I believe my current status is like an OTM option and underpay -200% with what I brought to the company.
 I have more than a solid base of knowledge to generate returns from the capital market. 
 If your department or company values investment research and investment personnel enough with corresponding compensation, 
-I am willing to work for you.
+I am willing to work for you. I am open to great oppertunities and relocation.
 
 Get in touch 👉  boya.chiou[at]gmail.com
 
