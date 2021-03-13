@@ -5,12 +5,6 @@ I'm currently a Portfolio Manager at Cathay SITE, Taiwan's largest asset managem
 I graduated from the University of Tokyo, School of Public Policy with a quantitative focused program in applied economics.
 When I'm not in research or trading, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
-Within 1 year at the new dept of 2 staff and ridiculous budget, we were able to generage over $155M AUM to the Company.
-I believe my current status is like an OTM option and underpay -200% comparing with what I brought to the company or to my peers.
-I have more than a solid base of knowledge to generate returns from the capital market and tired of exchange what I have for nothing.
-If your department or company values investment research and investment personnel enough with corresponding compensation, 
-I am willing to work for you. I am open to great oppertunities and relocation.
-
 Get in touch 👉  boya.chiou[at]gmail.com
 
 ```diff
