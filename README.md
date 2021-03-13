@@ -4,14 +4,10 @@ I'm **Boya Chiou**, a quantamental portfolio manager focused on everything lucra
 I'm currently a Portfolio Manager at Cathay SITE, Taiwan's largest asset management company, with over $30 Billion in AUM. 
 I graduated from the University of Tokyo, School of Public Policy with a quantitative focused program in applied economics.
 When I'm not in research or trading, I'm probably eating, traveling, or crossing off another item on my bucket list.
-Last year, I joined Cathay SITE's of its new department. 
-With 2 people we were able to bring over $155M in AUM to the Company and carring a heavy load for product design and actively manage a fund for the government.
-I'm currently under pay 200% due to the Company structural issue than people I'm working with. 
-I was asked my gender, marital status while interviewing. I asked for a salary raise based on the past 2 year performance.
-However, I received comments as, the Company is providing you a learning oppertunity and your past experiences had nothing to do with research and investment. Thus, we can conclude you are now over pay. And as a female, you have a high risk to married and give birth within the next 15 years.
-The company don't want to take such risk. Thus, we are fair. However, those are the things I couldn't and won't be able to change.
-And I don't want to be under pay 200% in the coming year in 2021. Thus, I'm open to good oppertunies and relocation!
-I'm very confident I can generate more profits to your Company than you paid me.
+I believe my current status is like an OTM option and underpay -200% with what I brought to the company.
+I have more than a solid base of knowledge to generate returns from the capital market. 
+If your department or company values investment research and investment personnel enough with corresponding compensation, 
+I am willing to work for you.
 
 Get in touch 👉  boya.chiou[at]gmail.com
 
