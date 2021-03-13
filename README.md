@@ -11,11 +11,6 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 - ⚡️ Lose 6kgs in weights and back to the gym
 - 🤫 Others
 
-```diff
-- 🚀 Learn how to drive, and go on a road trip to the east coast of Taiwan text in red
-+ ⚡️ Lose 6kgs in weights and back to the gym
-- 🤫 Others
-```
 Get in touch 👉  boya.chiou[at]gmail.com
 
 ```diff
