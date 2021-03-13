@@ -11,9 +11,10 @@ When I'm not in research or trading, I'm probably eating, traveling, or crossing
 - Completely release during weekends/holidays
 - Spend time to build a social network for common interest
 - Spend more time with families
-- Eat healthy, cook more at home and no spend more than 6 meals a week on Uber Eats
+- Eat healthy, cook more at home and spend no more than 6 meals a week on Uber Eats
 - Sleep well and drip sufficient amount of water
-
+- Triple my AUM
+- Pass AICPA
 
 Get in touch 👉  boya.chiou[at]gmail.com
 
