@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 I'm Boya Chiou, a quantamental portfolio manager focused on everything lucrative
-<span style="color:blue">some *blue* text</span>.
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <!--
 **boyac/boyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
