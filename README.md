@@ -3,16 +3,12 @@
 I'm **Boya Chiou**, a quantamental portfolio manager focused on everything lucrative.
 I'm currently a Portfolio Manager at Cathay SITE, Taiwan's largest asset management company, with over $30 Billion in AUM. 
 I graduated from the University of Tokyo, School of Public Policy with a quantitative focused program in applied economics.
-When I'm not in research or trading, I'm probably eating, traveling, or crossing off another item on my bucket list.
+**When I'm not in front of a computer screen doing research or trading**, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
 #### Goals in 2021
-- Learn how to drive, and go on a road trip to the east coast of Taiwan
-- Lose 6kgs in weights and back to the gym
-- Completely release during weekends/holidays
-- Spend time to build a social network for common interest
-- Spend more time with families
-- Eat healthy, cook more at home and spend no more than 6 meals a week on Uber Eats
-- Sleep well and drink sufficient amount of water
+- 🚀 Learn how to drive, and go on a road trip to the east coast of Taiwan
+- ⚡️ Lose 6kgs in weights and back to the gym
+- 🤫 Others
 
 
 Get in touch 👉  boya.chiou[at]gmail.com
