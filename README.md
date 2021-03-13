@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Boya Chiou, a portfolio manager focused on capital market
+
 <!--
 **boyac/boyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
