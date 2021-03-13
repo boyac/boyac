@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Boya Chiou, a portfolio manager focused on capital market
+I'm Boya Chiou, a quantamental portfolio manager focused on everything lucrative
 
 <!--
 **boyac/boyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
