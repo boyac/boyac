@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Boya Chiou, a quantamental portfolio manager focused on everything lucrative
+I'm Boya Chiou, a quantamental portfolio manager focused on everything lucrative.
+Get in touch 👉 boya.chiou[at]gmail.com
 ```diff
 - text in red
 + text in green
