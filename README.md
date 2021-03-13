@@ -6,7 +6,7 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 When I'm not in research or trading, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
 
-<br>  Get in touch 👉  boya.chiou[at]gmail.com
+Get in touch 👉  boya.chiou[at]gmail.com
 
 ```diff
 - text in red
