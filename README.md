@@ -8,7 +8,7 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 #### Goals in 2021
 - 🚀 Learn how to drive, and go on a road trip to the east coast of Taiwan
 - ⚡️ Lose 6kgs in weights and back to the gym
-- 🤫 Others (Fly Delta card still have balance)
+- 🤫 Others (Fly Delta card still have balance; Tokyo/Honolulu)
 
 Get in touch 👉  boya.chiou[at]gmail.com
 
