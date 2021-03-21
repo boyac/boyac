@@ -6,8 +6,9 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 **When I'm not in front of a computer screen doing research or trading**, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
 #### Goals in 2021
-- 🚀 Learn how to drive, and go on a road trip/camping to the east coast of Taiwan
+- 🚀 Learn how to drive, and go on a road trip to the east coast of Taiwan
 - ⚡️ Lose 6kgs in weights and back to the gym
+- 🍿️ Cook salted whisky caramel popcorn at home
 - 🤫 Others (Fly Delta card still have balance; Tokyo/Honolulu)
 
 
