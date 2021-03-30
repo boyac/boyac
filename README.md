@@ -6,7 +6,8 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 **When I'm not in front of a computer screen doing research or trading**, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
 ![alt tag](/image/90bps.png)
-If you have enough capital pool and willing to pay 90 bps for using this strategy, please reach out to discuss further.
+
+If you have enough capital and willing to pay 90 bps for operating this strategy, please reach out to discuss further.
 (This is an original investment strategy)
 
 #### Goals in 2021
