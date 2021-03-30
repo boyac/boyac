@@ -8,7 +8,7 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 ![alt tag](/image/90bps.png)
 
 If you have enough capital and willing to pay 90 bps for operating this strategy, please reach out to discuss further.
-(This is an original investment strategy and not published anywhere.)
+(This is an original investment strategy and not published anywhere)
 
 #### Goals in 2021
 - 🚀 Learn how to drive, and go on a road trip to the east coast of Taiwan
