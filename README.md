@@ -5,6 +5,10 @@ I'm currently a Portfolio Manager at Cathay SITE, Taiwan's largest asset managem
 I graduated from the University of Tokyo, School of Public Policy with a quantitative focused program in applied economics.
 **When I'm not in front of a computer screen doing research or trading**, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
+![alt tag](90bps/ec.png)
+If you have enough capital pool and willing to pay 90 bps for using this strategy, please reach out to discuss further.
+(This is an original investment strategy)
+
 #### Goals in 2021
 - 🚀 Learn how to drive, and go on a road trip to the east coast of Taiwan
 - ⚡️ Lose 6kgs in weights and back to the gym
