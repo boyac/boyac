@@ -7,7 +7,7 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 
 ![alt tag](/image/90bps.png)
 
-If you are willing to pay 90 bps for adopting this strategy, please reach out to discuss further.
+For adopting this strategy, please reach out to discuss further.
 (This is an original investment strategy developed a few years ago, not published anywhere and still work till today!)
 
 #### Goals in 2021
