@@ -14,7 +14,7 @@ For adopting this strategy, please reach out to discuss further.
 - 🚀 Learn how to drive, and go on a road trip to the east coast of Taiwan
 - ⚡️ Lose 6kgs in weights and back to the gym
 - 🤫 Others (Fly Delta card still have balance; Tokyo/Honolulu)
-
+![alt tag](/image/nyc.png)
 
 Get in touch 👉  boya.chiou[at]gmail.com
 
