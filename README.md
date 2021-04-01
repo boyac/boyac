@@ -15,6 +15,7 @@ For adopting this strategy, please reach out to discuss further.
 - ⚡️ Lose 6kgs in weights and back to the gym
 - 🤫 Others (Fly Delta card still have balance; Tokyo/Honolulu)
 - AICPA NYC in 2021-2022
+
 ![alt tag](/image/nyc.png)
 
 Get in touch 👉  boya.chiou[at]gmail.com
