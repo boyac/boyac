@@ -9,6 +9,7 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 
 For adopting this strategy, please reach out to discuss further.
 (This is an original investment strategy developed a few years ago, not published anywhere and still work till today!)
+“投資本身是一個孤獨的過程，是自己做決定的事，討論的人一多，變成一個委員會，你的客觀性就丟掉了，你就無法判斷成功機率了，團隊的趨同性也會發生作用，影響你的判斷。”
 
 #### Goals in 2021
 - 🚀 Learn how to drive, and go on a road trip to the east coast of Taiwan
