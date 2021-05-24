@@ -8,5 +8,5 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 ![alt tag](/image/90bps.png)
 
 ```diff
-@@ Available for development, investment strategies freelance projects, please send messages if interested: 👉  boya.chiou[at]gmail.com @@
+@@ Available for investment strategies/dev freelance projects, please send messages if interested: 👉  boya.chiou[at]gmail.com @@
 ```
