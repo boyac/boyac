@@ -7,8 +7,9 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 
 ```diff
 - Available for investment strategies, development, visualization, data analysis, 
-- translation (Chinese/English/Taiwanese/Japanese) freelance projects,
-- please send messages if interested: 👉  boya.chiou[at]gmail.com
+- translation (Chinese/English/Taiwanese/Japanese) freelance projects, or other recruitment opportunities 
++ please send messages if interested: 👉  boya.chiou[at]gmail.com
+
 ```
 
 
