@@ -6,7 +6,8 @@ I graduated from the University of Tokyo, School of Public Policy with a quantit
 **When I'm not in front of a computer screen doing research or trading**, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
 ```diff
-- Available for investment strategies, development, visualization, data analysis, translation (Chinese/English/Taiwanese/Japanese) freelance projects,
+- Available for investment strategies, development, visualization, data analysis, 
+- translation (Chinese/English/Taiwanese/Japanese) freelance projects,
 - please send messages if interested: 👉  boya.chiou[at]gmail.com
 ```
 
