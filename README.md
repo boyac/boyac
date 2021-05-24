@@ -5,9 +5,11 @@ I'm formerly a Portfolio Manager at Cathay SITE, Taiwan's largest asset manageme
 I graduated from the University of Tokyo, School of Public Policy with a quantitative focused program in applied economics.
 **When I'm not in front of a computer screen doing research or trading**, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
+```diff
+- Available for investment strategies/development freelance projects,
+- please send messages if interested: 👉  boya.chiou[at]gmail.com
+```
+
+
 ![alt tag](/image/90bps.png)
 
-```diff
-@@ Available for investment strategies/development freelance projects, @@
-@@ please send messages if interested: 👉  boya.chiou[at]gmail.com @@
-```
