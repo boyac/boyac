@@ -5,7 +5,7 @@ I have 7 years of related working experience in the international financial mark
 I graduated from the University of Tokyo, School of Public Policy with a quantitative-focused program in applied economics.
 I love exploring opportunities and different vehicles, e.g. mutual funds, equity, fixed income, index, alternative products in the capital market to maximize profits.
 **When I'm not in front of a computer screen adjusting my portfolios,** I'm probably eating, traveling, or crossing off another item on my bucket list.
-I'm also a CPA candidate for New York State in 2021/2022.
+I'm also a CPA candidate for New York State in 2021/2022. 
 
 
 ![alt tag](/image/90bps.png)
