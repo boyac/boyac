@@ -8,6 +8,6 @@ I love exploring opportunities and different vehicles, e.g. mutual funds, equity
 - 💼  **Experiences:** Corporate & Investment Banking, Buyside (lifer), Sellside (investment advisors, asset management)
 - 💬  **Languages:** Mandarin Chinese (native), English (advanced; IELTS 7.0, TOEIC 965), Japanese (intermediate; JLPT N1 Mock 117/180), Taiwanese (native)
 - 💻  **Programming:** Python (7 years+), SQL, backtesting, data analysis and contributed Python packages
-- ⚡️ **Others:** Expecting CPA for New York State in 2021/2022. 
+- ⚡️ **Others:** Expecting CPA for New York State in 2021/2022. (AUD, FAR, REG, BEC)
 ![alt tag](/image/90bps.png)
 
