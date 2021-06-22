@@ -9,5 +9,6 @@ I love exploring opportunities and different vehicles, e.g. mutual funds, equity
 - 💬  **Languages:** Mandarin Chinese (native), English (advanced; IELTS 7.0, TOEIC 965), Japanese (intermediate; JLPT N1 Mock 117/180), Taiwanese (native)
 - 💻  **Programming:** Python (7 years+), SQL, backtesting, data analysis and contributed Python packages
 - ⚡️ **Others:** Expecting CPA for New York State in 2021/2022. (AUD, FAR, REG, BEC; topics for better portfolio management)
+- 🏷️ **Hashtag:** Covering broad areas including portfolio analytics, quantitative & systematic investing, quantamental strategies, options pricing, bonds, REITs, Nikkei 225
 ![alt tag](/image/90bps.png)
 
