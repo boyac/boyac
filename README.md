@@ -5,9 +5,3 @@ I started this GitHub in 2014 and have 7 years of related working experience in 
 I love exploring opportunities and different vehicles, e.g. mutual funds, equity, fixed income, index, alternative products in the capital market to maximize profits. When I'm not in front of a computer screen, I'm probably eating, traveling, or crossing off another item on my bucket list.
 
 
-- 💼  **Experiences:** Corporate & Investment Banking, Buyside (lifer), Sellside (investment advisors, asset management)
-- 💬  **Languages:** Mandarin Chinese (native), English (advanced; IELTS 7.0, TOEIC 965), Japanese (intermediate; JLPT N1 Mock 117/180), Taiwanese (native)
-- 💻  **Programming:** Python (7 years+), SQL, backtesting, data analysis and contributed Python packages
-- 🏷️ **Hashtag:** Covering broad areas including portfolio analytics, quantitative & systematic investing, quantamental strategies, options pricing, bonds, REITs, Nikkei 225
-![alt tag](/image/90bps.png)
-
