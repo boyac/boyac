@@ -5,7 +5,7 @@ I started coding since middle school and this GitHub in 2014 based on my interes
 I love analyzing companies' business models and exploring opportunities and different vehicles, e.g. mutual funds, equity, fixed income, ETF index, alternative products in the capital market to maximize profits. 
 
 
-```html
+```js
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="JJavZN" data-user="AllThingsSmitty" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/AllThingsSmitty/pen/JJavZN">
   Countdown Timer</a> by Matt Smith (<a href="https://codepen.io/AllThingsSmitty">@AllThingsSmitty</a>)
