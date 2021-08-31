@@ -5,8 +5,4 @@ I started coding since middle school and this GitHub in 2014 based on my interes
 I love analyzing companies' business models and exploring opportunities and different vehicles, e.g. mutual funds, equity, fixed income, ETF index, alternative products in the capital market. 
 
 
-``` r
-library(countdown)
 
-countdown(minutes = 0, seconds = 15)
-```
