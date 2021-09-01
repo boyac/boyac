@@ -5,7 +5,7 @@ I started coding since middle school and this GitHub in 2014 based on my interes
 I love analyzing companies' business models and exploring opportunities and different vehicles, e.g. mutual funds, equity, fixed income, ETF index, alternative products in the capital market. 
 
 Alongside my interests in fundamental research and data analysis some of my other interests and hobbies are:
-- Foods
+- Food, healthcare, nutrition
 - Gym
 - Travel
 - Technologies
