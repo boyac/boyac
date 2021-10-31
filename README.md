@@ -5,4 +5,4 @@ Boya began her career in Crédit Agricole CIB's Tokyo branch and has since worke
 
 10K20K30K40K50K60K
 100%50%33%25%20%
-#leverage, cost reduction, systematic, discretionary, buy-and-hold, long/short strategies
+- #leverage, cost reduction, systematic, discretionary, buy-and-hold, long/short strategies
