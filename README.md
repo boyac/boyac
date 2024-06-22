@@ -9,6 +9,8 @@
 
 	•	Portfolio management
 	•	Coding (python, sql, scriptive language)
+ management
+	•       Financial analysis, sales & marketing
 	•	Fluent in English, Mandarin Chinese, and Japanese; also a very little bit of Czech 
  	•	Currently pursuing AICPA certification for NY State
 
