@@ -15,8 +15,6 @@
 
 My path into the world of quantitative analysis and investment research started early, with a 286 model computer in second grade igniting my interest. Despite not having a traditional computer science degree, this unconventional route has unlocked numerous opportunities for me.
 
-My path into the world of quantitative analysis and investment research started early, with a 286 model computer in second grade igniting my interest. Despite not having a traditional computer science degree, this unconventional route has unlocked numerous opportunities for me.
-
 Over the years, I’ve delved into equities, bonds, alternative investments, and risk management within global financial institutions. My self-taught coding skills have attracted attention from fintech and medical professionals around the globe, demonstrating my ability to tackle challenges from unique angles and adapt swiftly to new technologies.
 
 This diverse background enables me to provide fresh perspectives and innovative solutions, fostering exciting collaborations and growth. As I keep abreast of emerging market trends, I remain committed to making meaningful contributions, continuously developing my skills, and seeking personal fulfillment.
