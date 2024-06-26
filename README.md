@@ -11,7 +11,7 @@
 	•	Coding (python, sql, scriptive language)
 	•	Fluent in English, Mandarin Chinese, and Japanese; also a very little bit of Czech 
 	•       Interested in financial analysis, sales & marketing
- 	•	Currently pursuing AICPA certification for NY State
+ 	•	Currently pursuing *
 
 My path into the world of quantitative analysis and investment research started early, with a 286 model computer in second grade igniting my interest. Despite not having a traditional computer science degree, this unconventional route has unlocked numerous opportunities for me.
 
