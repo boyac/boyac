@@ -4,6 +4,8 @@
 - Str01/Top21
 - Str02/SemiLS
 
+**Memo**
+At the moment, I'm concentrating on aligning my extensive financial expertise with future career opportunities that resonate with my interests and skills. Additionally, I'm reflecting on my life akin to a midlife evaluation, exploring avenues to create something meaningful for myself in the coming decade.
 
 **Top Skills**
 
@@ -12,6 +14,7 @@
 	•	Fluent in English, Mandarin Chinese, and Japanese; also a very little bit of Czech 
 	•       Interested in financial analysis, sales & marketing
  	•	Currently pursuing *
+  
 
 My path into the world of quantitative analysis and investment research started early, with a 286 model computer in second grade igniting my interest. Despite not having a traditional computer science degree, this unconventional route has unlocked numerous opportunities for me.
 
