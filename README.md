@@ -18,7 +18,7 @@ At the moment, I'm concentrating on aligning my extensive financial expertise wi
 	•       Interested in financial analysis, sales & marketing
  	•	Currently pursuing *
   
-
+**Little About Me**
 My path into the world of quantitative analysis and investment research started early, with a 286 model computer in second grade igniting my interest. Despite not having a traditional computer science degree, this unconventional route has unlocked numerous opportunities for me.
 
 Over the years, I'm grateful to have delved into equities, bonds, alternative investments, and risk management within global financial institutions. My self-taught coding skills have attracted attention from fintech and medical professionals around the globe, demonstrating my ability to tackle challenges from unique angles and adapt swiftly to new technologies.
