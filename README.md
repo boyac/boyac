@@ -10,7 +10,7 @@
 
 **Memo**
 
-At the moment, I'm concentrating on aligning my extensive financial expertise with future career opportunities that resonate with my interests and skills. Additionally, I'm reflecting on my life akin to a midlife evaluation, exploring avenues to create something meaningful for myself in the coming decade.
+At the moment, I'm concentrating on aligning my extensive financial expertise with future career opportunities that resonate with my interests and skills. Additionally, I’m reflecting on my life, exploring ways to create something meaningful for myself in the coming decade.
 
 
 **Top Skills**
