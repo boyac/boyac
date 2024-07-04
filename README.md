@@ -19,7 +19,7 @@ At the moment, I'm concentrating on aligning my extensive financial expertise wi
 	•	Coding (python, sql, scriptive language)
 	•	Fluent in English, Mandarin Chinese, and Japanese; also a very little bit of Czech 
 	•       Interested in financial analysis, sales & marketing
- 	•	Currently pursuing *
+ 	•	*
 
   
 **Little About Me**
