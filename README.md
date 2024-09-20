@@ -23,16 +23,4 @@ At the moment, I'm concentrating on aligning my extensive financial expertise wi
 
   
 **Little About Me**
-
-My path into the world of quantitative analysis and investment research started early, with a 286 model computer in second grade igniting my interest. Despite not having a traditional computer science degree, this unconventional route has unlocked numerous opportunities for me.
-
-Over the years, I'm grateful to have delved into equities, bonds, alternative investments, and risk management within global financial institutions. My self-taught coding skills have attracted attention from fintech and medical professionals around the globe, demonstrating my ability to tackle challenges from unique angles and adapt swiftly to new technologies.
-
-This diverse background enables me to provide fresh perspectives and innovative solutions, fostering exciting collaborations and growth. As I keep abreast of emerging market trends, I remain committed to making meaningful contributions, continuously developing my skills, and seeking personal fulfillment.
-
-If you’re looking for someone who combines a strong analytical foundation with a creative approach to problem-solving and multilingual capabilities, let’s connect and explore how we can work together to achieve your goals.
-
-
-Best regards,
-
-🥳
+My journey into quantitative analysis and investment research began early, sparked by my fascination with a 286 model computer in second grade. Over the years, I've gained experience in equities, bonds, alternative investments, and risk management, working within global financial institutions. My self-taught coding skills have also been useful to professionals in fintech and medical industries."
