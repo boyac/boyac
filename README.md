@@ -24,4 +24,4 @@ At the moment, I'm concentrating on aligning my extensive financial expertise wi
   
 **Little About Me**
 
-My journey into quantitative analysis and investment research began early, sparked by my fascination with a 286 model computer in second grade. Over the years, I've gained experience in equities, bonds, alternative investments, and risk management, working within global financial institutions. My self-taught coding skills have also been useful to professionals in fintech and medical industries."
+My journey into quantitative analysis and investment research began early, sparked by my fascination with a 286 model computer in second grade. Over the years, I've gained experience in equities, bonds, alternative investments, and risk management, working within global financial institutions. My self-taught coding skills have also been useful to professionals in fintech and medical industries.
