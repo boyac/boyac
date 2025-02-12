@@ -18,7 +18,7 @@ At the moment, I'm concentrating on aligning my extensive financial expertise wi
 	•	Remote working 💻
 	•	Portfolio management: strategy, allocation, risk adjustment, backtesting/simulation, performance analysis, reporting
 	•	Coding (python, sql, scriptive language)
-	•	Fluent in English, Mandarin Chinese, and Japanese; also a very little bit of Czech 
+	•	Fluent in English, Mandarin Chinese, and lower intermediate Japanese; Czech language certificate of Erasmus study 
 	•       Interested in financial analysis, sales & marketing
 
 
