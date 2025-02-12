@@ -15,11 +15,12 @@ At the moment, I'm concentrating on aligning my extensive financial expertise wi
 
 **Top Skills**
 
+	•	Remote working 💻
 	•	Portfolio management
 	•	Coding (python, sql, scriptive language)
 	•	Fluent in English, Mandarin Chinese, and Japanese; also a very little bit of Czech 
 	•       Interested in financial analysis, sales & marketing
- 	•	*
+
 
   
 **Little About Me**
