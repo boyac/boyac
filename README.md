@@ -12,7 +12,8 @@
 
 *   [https://github.com/boyac/pyOptionPricing] pyOptionPricing: A Python library for option pricing and volatility calculations. Powering options analysis for students and quants (reaching 300+ stars).
 *   Str01/Top21 & Str02/SemiLS: Proprietary strategies utilizing quantitative models and historical data for enhanced portfolio performance.
-
+*   Currently developing: Low-cost, effective agents using locally hosted LLMs and proprietary prompt engineering for analysis and learning.
+  
 **Skills at a Glance:**
 
 *   **Financial Expertise:** Portfolio management (strategy, allocation, risk adjustment, backtesting/simulation, performance analysis, reporting)
