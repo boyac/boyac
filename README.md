@@ -20,6 +20,9 @@
 *   **Interested In:** Financial analysis, sales & marketing
 
 **More About Me:**
-From tinkering with a 286 in second grade to working in global financial institutions, I've cultivated a deep passion for quantitative analysis and investment research. My experience spans equities, bonds, alternative investments, and risk management. I'm also a self-taught coder with a track record of delivering practical financial solutions for professionals in fintech and medical industries.
+
+From tinkering with a 286 in second grade to working in global financial institutions, I've cultivated a deep passion for quantitative analysis and investment research. 
+My experience spans equities, bonds, alternative investments, and risk management. 
+I'm also a self-taught coder with a track record of delivering practical financial solutions for professionals in fintech and medical industries.
 
 Let's connect!
