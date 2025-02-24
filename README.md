@@ -2,13 +2,12 @@ Hi there 👋 I'm Boya!
 
 ✨ Financial Modeler | Algorithmic Trader | Pythonista ✨
 
-Top Projects & Strategies:
-
+**Top Projects & Strategies:**
 * [pyOptionPricing](https://github.com/boyac/pyOptionPricing): Open-source Python library for option pricing and volatility analysis. [300+ stars]
 * Str01/Top21 & Str02/SemiLS: Proprietary quantitative trading strategies designed for enhanced portfolio performance.
 * [pyGamgee](https://github.com/boyac/pyGamgee): Developing low-cost, effective AI agents for financial analysis and learning. [Exploring applications in personalized learning and knowledge mastery through a secure, on-premise AI assistan]
 
-Skills at a Glance:
+**Skills at a Glance:**
 *   Financial Expertise: Portfolio Management, Risk Management, Backtesting
 *   Technical Skills: Python, Machine Learning, SQL
 *   Remote Working: Proven ability to collaborate effectively in distributed teams
