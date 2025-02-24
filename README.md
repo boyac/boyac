@@ -1,6 +1,7 @@
 Hi there 👋 I’m Boya!
 
 ✨ Financial Modeler | Algorithmic Trader | Venture Capital Investor ✨
+
 Ex-Portfolio Manager with a decade of experience in public markets, now leveraging my expertise in VC and early-stage investments.
 
 **Top Projects & Strategies:**
