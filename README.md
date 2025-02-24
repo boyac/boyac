@@ -1,8 +1,8 @@
 Hi there 👋 I’m Boya!
 
 ✨ Financial Modeler | Algorithmic Trader | Venture Capital Investor ✨
-
 Ex-Portfolio Manager with a decade of experience in public markets, now leveraging my expertise in VC and early-stage investments.
+
 
 **Top Projects & Strategies:**
 * [pyOptionPricing](https://github.com/boyac/pyOptionPricing): Open-source Python scripts for option pricing and volatility analysis. [300+ stars]
