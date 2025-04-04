@@ -33,10 +33,9 @@ I combine structured thinking, quantitative tools, and domain expertise to creat
 ---
 
 ## 🚀 Seeking Remote / U.S.-based Roles
-
-I’m actively exploring remote or U.S.-based opportunities in **investment strategy, fintech product management, or technical investment roles**.  
-If you're building the next generation of finance tools — let’s talk!
-
+I’m actively exploring remote or U.S.-based opportunities in investment strategy, fintech product management, or technical investment roles.  
+If you're building the next generation of finance tools — let’s talk!  
+*Open to remote-first roles or relocation with visa support if needed.*
 **Contact:**  
 [LinkedIn](https://www.linkedin.com/in/bchiou)  
 `boya [dot] chiou [at] gmail [dot] com`
