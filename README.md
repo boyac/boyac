@@ -1,5 +1,5 @@
 # Hi there, I’m Boya! 👋  
-✨ Investment Strategist | Quant-Investor | Product-Oriented Technologist ✨  
+✨ Investment Strategist | Systematic-Investor | Product-Oriented Technologist ✨  
 
 Trained in structured analysis and data-driven strategy, I apply these principles to build technology-enhanced solutions that support investment research, portfolio automation, and capital decision-making.
 
