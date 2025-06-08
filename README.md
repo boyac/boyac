@@ -1,8 +1,14 @@
-# Hi, I’m Boya
-Investment Strategist | Systematic Investor | Product-Focused Technologist  
+# Hi, I’m Boya  
+## Empowering Asset Management with Technology-Driven Investment Solutions
 
-I design technology-driven solutions for investment research, portfolio automation, and decision-making.  
-With close to a decade in portfolio management, I bridge finance and technology to build practical, scalable tools for asset management.
+I’m Boya, with nearly a decade of experience blending finance and technology. I specialize in integrating fundamental research with systematic strategies, leveraging automation and AI to enhance investment decision-making and risk management.
+
+My projects cover:
+
+- Foundational financial tools and data processing (e.g., options pricing utilities)  
+- Quantitative strategies driven by fundamental analysis and multi-asset allocation  
+- Automated data collection and workflow systems to ensure timely insights  
+- Exploring AI and local large language models (LLMs) to assist investment research and decisions  
 
 ---
 
@@ -13,7 +19,7 @@ With close to a decade in portfolio management, I bridge finance and technology 
   *300+ stars. Used in derivatives research and teaching.*
 
 - **Str01/Top21 & Str02/SemiLS**  
-  Proprietary long/short strategies developed and stress-tested for real-world portfolios.
+  Proprietary long/short strategies designed for real-world portfolios, emphasizing risk management and asset allocation efficiency.
 
 - **pyGamgee** *(in progress)*  
   AI assistant for investment learning, built with local LLMs and lightweight design.
@@ -29,6 +35,6 @@ With close to a decade in portfolio management, I bridge finance and technology 
 
 ---
 
-## Contact
+## Contact  
 [LinkedIn](https://www.linkedin.com/in/bchiou)  
 `boya [dot] chiou [at] gmail [dot] com`
