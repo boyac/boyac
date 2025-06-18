@@ -22,7 +22,7 @@ My projects cover:
   Proprietary long/short strategies designed for real-world portfolios, emphasizing risk management and asset allocation efficiency.
 
 - **pyGamgee** *(in progress)*
-  AI assistant for investment learning, co-developed with AI using local LLMs and lightweight architecture
+  AI assistant for investment learning, co-developed with AI using local LLMs and lightweight architecture.
 ---
 
 ## Skills
