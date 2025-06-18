@@ -21,7 +21,7 @@ My projects cover:
 - **Str01/Top21 & Str02/SemiLS**  
   Proprietary long/short strategies designed for real-world portfolios, emphasizing risk management and asset allocation efficiency.
 
-- **pyGamgee** *(in progress)*
+- **pyGamgee** *(in progress)*  
   AI assistant for investment learning, co-developed with AI using local LLMs and lightweight architecture.
 ---
 
