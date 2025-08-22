@@ -1,9 +1,8 @@
-## Hi, I’m Boya  
+## Hi, I’m Boya
 
-**VC @ CDIB**  
-*(one of Asia-Pacific’s longest-standing and top-performing VCs)*  
-**& Developer**  
+VC @ CDIB | Developer  
+Investing in **FinTech, AI & Automation**  
+Bridging **technology innovation** & **asset management**  
+Open to **collaboration & networking**
 
-Investing in **FinTech, AI & Automation** | Building tools + backing founders  
-
-📩 boya[dot]chiou[at]gmail[dot]com  
+📩 boya[dot]chiou[at]gmail[dot]com
