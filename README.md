@@ -1,8 +1,6 @@
 ## Hi, I’m Boya
 
-VC | Developer  
-Investing in **FinTech, AI & Automation**  
-Bridging **technology innovation** & **asset management**  
-Open to **collaboration & networking**
+VC & Public Markets
+Focused on AI, DX, Deep Tech, and the semiconductor supply chain. Advising investors and startups on financial strategy and growth, with hands-on coding and product-building experience.
 
 📩 boya[dot]chiou[at]gmail[dot]com
