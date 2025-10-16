@@ -1,6 +1,5 @@
 ## Hi, I’m Boya
 
-VC & Public Markets
-Focused on AI, DX, Deep Tech, and the semiconductor supply chain. Advising startups on financial strategy and growth, with hands-on coding and product-building experience.
+Former portfolio manager with experience in global asset management, combining coding skills and product-building expertise.
 
 📩 boya[dot]chiou[at]gmail[dot]com
