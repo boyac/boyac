@@ -1,5 +1,5 @@
 ## Hi, I’m Boya
 
-Former portfolio manager with experience in global asset management, combining coding skills and product-building expertise.
+Former Portfolio Manager and VC investor with experience in global asset management, combining investment expertise with coding skills.
 
 📩 boya[dot]chiou[at]gmail[dot]com
